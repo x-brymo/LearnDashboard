@@ -26,6 +26,7 @@
 - [📁 Project Structure](#-project-structure)
   - [📂 Project Index](#-project-index)
 - [🚀 Getting Started](#-getting-started)
+- [🚀 Getting Started](#-getting-started-1)
   - [☑️ Prerequisites](#️-prerequisites)
   - [⚙️ Installation](#️-installation)
   - [🤖 Usage](#-usage)
@@ -842,6 +843,12 @@
 </details>
 
 ---
+## 🚀 UI Application
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/x-brymo/LearnDashboard/main/shoot/shoot.png" alt="UI Application Preview" width="80%">
+</p>
+
 ## 🚀 Getting Started
 
 ### ☑️ Prerequisites
